@@ -1,0 +1,73 @@
+
+Test Dataset Index: 1
+
+Coefficients: 
+a0 = 7.17
+a1 = 4.9066
+a2 = -4.8208
+a3 = 0.69
+
+ Mean Square Error: 38.2993
+
+****************************************
+
+Test Dataset Index: 2
+
+Coefficients: 
+a0 = -4.89
+a1 = 1.62
+a2 = 9.48
+a3 = 9.14
+a4 = -5.66
+a5 = -5.41
+
+ Mean Square Error: 3.52906e+008
+
+****************************************
+
+Test Dataset Index: 3
+
+Coefficients: 
+a0 = -8.67
+a1 = -3
+a2 = 1.44
+a3 = 8.25
+a4 = 4.14
+a5 = 7.47
+a6 = -5.5
+
+ Mean Square Error: 5.40896e+009
+
+****************************************
+
+Test Dataset Index: 4
+
+Coefficients: 
+a0 = 9.37
+a1 = -0.39
+a2 = -6.6
+a3 = -6.54
+a4 = -5.89
+
+ Mean Square Error: 1.53226e+007
+
+****************************************
+
+Test Dataset Index: 5
+
+Coefficients: 
+a0 = -9.06
+a1 = 2.11
+a2 = -3.99
+a3 = -0.13
+a4 = -1.69
+a5 = 2.74
+a6 = -9.39
+a7 = -7.6
+a8 = -5.79
+a9 = 6.98
+a10 = 4.94
+
+ Mean Square Error: 1.85714e+016
+
+****************************************
