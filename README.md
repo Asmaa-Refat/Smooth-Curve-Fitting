@@ -2,6 +2,7 @@
 
 ### Soft Computing (Genetic Algorithm)
 
+```
 Smooth Curve Fitting Problem
 
 + Individuals in the population represented using floating-point representation
